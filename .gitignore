@@ -3,7 +3,7 @@ quandl_api_key.txt
 intrinio_api_key.txt
 
 # Ignore a pasta de TOKENS
-**./tokens
+**/.tokens
 
 # Ignore ipynb_checkpoints
 **/.ipynb_checkpoints/
